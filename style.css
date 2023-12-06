@@ -1,0 +1,19 @@
+img{
+    width:200px;
+    height:200px;
+    margin:5px;
+}
+.info{
+    text-align:center;
+
+}
+.int{
+    display:flex;
+}
+h4{
+    color:red;
+}
+.parent{
+    align-text:center;
+    margin:50px;
+}
