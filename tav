@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <div class="info">
+<input style="text" placeholder="search...">
+    </div>
+    <h4>A review of Kawangware</h4>
+    <P>Kawangware is slum in nairobi located exactly 15km west of nairobi</P>
+    <p>kawangware is one of the major slums in E.A having a population of over 650,000 people 60% being youth and children</p>
+    <div class="int">
+        <img src="/home/james/Pictures/Untitled.jpegl">
+    <img src="/home/james/Pictures/Untitled.jpegv">
+    <img src="/home/james/Pictures/Untitled.jpegx">
+    </div>
+    <p>kawangware is famously known for the local TV sow known as the REAL HOUSE HELPS OF KAWANGWARE which featured kenyan celebrities such as DJ Shiti,Njugush and many others</p>
+    <img src="/home/james/Pictures/images.jpegz">
+    <img src="/home/james/Pictures/images.jpegg">
+    <p>Apart from the slum part of it,Kawangware is also developing in terms of infrastructure and construction of mordern houses </p>
+    <p>The local governmment with patnership with the national government are working in hand to ensure that social amenities are achieved in the area</p>
+    <img src="/home/james/Pictures/254750304008_status_692d151ccc364412974e5e40b10bcd9e.jpg">
+    <p>Being a densily populated area Kawangware has faces some challenges such as;</p>
+   <div class="parent">
+    <ul>
+        <li>High crime rates </li>
+        <li>Increased rates of unemployment</li>
+        <li>Poor housing leading to development of slums</li>
+    </ul>
+   </div>
+   <p>Insecurity is a major threat to the residence of kawangware.This is because investors fear investing in kawagware and by doing so the unemployment rate will keep on increasing thus lowering the standard of living.You can click the link below written image to see a picture of how insecurity or crime rate in Kawangware looks like</p>
+   <a href="/home/james/Pictures/images.jpeg22">
+image
+   </a>
+   <p>Being a densily populated area politicians use the area as a political platform to bring unity and friendship among the residents</p>
+   <img src="/home/james/Pictures/images.jpeg00">
+<p>Some politicans however use this chance to cause conflicts among groups of people thus causing conflits and misuderstanding among the people which leads to rise of fights among the people which may end up bringing the issue of police brutality.Residents engage the police in cat and run game which is a very deadly game because at the end of the day there are always several number of deads recorded</p>
+<img src="/home/james/Pictures/images.jpegyy">
+</body>
